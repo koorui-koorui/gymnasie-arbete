@@ -1,5 +1,5 @@
 <?php
-require_once "assets/db.php";
+require_once "assets/functions.php";
 
 ?>
 <!DOCTYPE html>

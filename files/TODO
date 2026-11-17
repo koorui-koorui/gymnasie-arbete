@@ -1,0 +1,26 @@
+Kontrollera att alla relationer fungerar.
+Skapa getRestaurants() – hämta restauranger.
+Skapa getTables() – hämta bord.
+Skapa getCustomers() – hämta kunder.
+Skapa getBookings() – hämta bokningar.
+Skapa createBooking() – skapa bokningar.
+Skapa cancelBooking() – avboka bokningar.
+Skapa funktion för att kontrollera lediga bord.
+Skapa tables.php.
+Skapa bookings.php.
+Skapa create_booking.php.
+Skapa cancel_booking.php.
+Använd prepared statements för SQL-frågor.
+Kontrollera användarens inmatning.
+Förhindra dubbelbokningar.
+Hantera felmeddelanden.
+Kontrollera att användare inte kan manipulera andras bokningar.Bestäm hur frontend ska kommunicera med backend.
+Skicka information från frontend till PHP.
+Skicka information från PHP till frontend i JSON-format.
+Testa att skapa en bokning från webbplatsen.
+Testa att avboka en bokning.
+Testa alla funktioner.
+Testa olika bokningsscenarier.
+Kontrollera att databasen uppdateras korrekt.
+Kontrollera att frontend och backend fungerar tillsammans.
+Dokumentera backend-koden.
