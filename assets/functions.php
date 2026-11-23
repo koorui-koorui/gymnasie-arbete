@@ -1,6 +1,6 @@
 <?php
 require_once "db.php";
-function getRestaurang($restaurang) {
+function getRestaurants($restaurang) {
 $sql = "SELECT * FROM restaurang";   
 $stmt = $restaurang->prepare($sql);
     $stmt->execute();
